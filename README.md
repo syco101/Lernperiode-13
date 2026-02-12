@@ -5,8 +5,10 @@ Die letzte Lernperiode war ein Erfolg. Ich habe endlich ein Praktikum gefunden u
 
 
 ## 17.10.25
-- [ ] Die Aufträge vom Modul 223 vorarbeiten
+- [x] Die Aufträge vom Modul 223 vorarbeiten
 - [ ] eine neue Projektidee finden
 - [ ] Java videos schauen und mehr dazu lernen (Aufbau besser verstehen usw)
 
 ## Reflexion
+
+Ich habe heute das Modul 223 angeschaut und die ein paar Powerpoints gelernt und zu den Themen auch Videos geschaut
